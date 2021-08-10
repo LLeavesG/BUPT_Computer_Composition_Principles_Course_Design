@@ -1,0 +1,56 @@
+Quartus II
+Version 9.1 Build 222 10/21/2009 SJ Full Version
+33
+1921
+OFF
+OFF
+OFF
+ON
+ON
+OFF
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+controller
+# storage
+db|controller.(0).cnf
+db|controller.(0).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+controller.vhd
+ffc05ac9edd1675792bfe7365fe9d8a
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+|
+}
+# lmf
+|altera|91|quartus|lmf|maxplus2.lmf
+a36c8ec425c8a2589af98b2d4daabc3
+# macro_sequence
+
+# end
+# complete
+
